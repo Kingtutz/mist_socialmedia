@@ -2,7 +2,7 @@ MIST INSTAGRAM BASE ALBUM
 =========================
 
 What's here
-- index.html ......... open in your browser to see every post and story at a glance
+- ../index.html ...... open in your browser to see every post and story at a glance
 - posts/ ............. 17 grid posts, 1080 x 1350 px (Instagram 4:5)
 - stories/ ........... 5 stories, 1080 x 1920 px
 - assets/ ............ the logo (gold, dark gold, near-black), illustrations and AI photos
